@@ -27,3 +27,9 @@ function inc(a) {
   number = a + 1
   return `${number}`
 }
+// CORRECT
+
+function dec(a) {
+  number = a - 1
+  return `${number}`
+}
