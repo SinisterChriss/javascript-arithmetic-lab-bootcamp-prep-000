@@ -43,6 +43,6 @@ function makeInt(a) {
 
 function preserveDecimal(a) {
  number = parseFloat(a, 10)
-  return `${number}`
+ return `${number}`
 }
 // CORRECT
