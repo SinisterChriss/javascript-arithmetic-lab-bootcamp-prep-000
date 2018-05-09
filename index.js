@@ -41,7 +41,3 @@ function makeInt(a) {
 }
 // CORRECT
 
-function makeInt(a) {
-  parseFloat(a)
-  return `${parseFloat}`
-}
