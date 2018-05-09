@@ -39,3 +39,9 @@ function makeInt(a) {
   parseInt(a, 10)
   return `${parseInt}`
 }
+// CORRECT
+
+function makeInt(a) {
+  parseFloat(a)
+  return `${parseFloat}`
+}
