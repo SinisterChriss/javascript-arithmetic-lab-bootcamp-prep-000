@@ -36,13 +36,13 @@ function dec(a) {
 // CORRECT
 
 function makeInt(a) {
-  parseInt(a, 10)
-  return `${parseInt}`
+  number = parseInt(a, 10)
+  return `${number}`
 }
 // CORRECT
 
 function preserveDecimal(a) {
-  parseFloat(a)
-  return `${parseFloat}`
+ number = parseFloat(a, 10)
+  return `${number}`
 }
 // CORRECT
