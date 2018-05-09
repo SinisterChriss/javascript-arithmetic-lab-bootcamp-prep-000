@@ -23,3 +23,7 @@ function divide(a, b) {
 }
 // CORRECT
 
+function inc(n) {
+  number += n
+  return `${number}`
+}
