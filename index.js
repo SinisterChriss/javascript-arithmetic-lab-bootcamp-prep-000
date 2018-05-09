@@ -41,3 +41,7 @@ function makeInt(a) {
 }
 // CORRECT
 
+function preserveDecimal(a) {
+  parseFloat(a)
+  return `${parseFloat}`
+}
