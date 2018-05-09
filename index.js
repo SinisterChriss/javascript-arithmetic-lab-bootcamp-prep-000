@@ -24,6 +24,6 @@ function divide(a, b) {
 // CORRECT
 
 function inc(n) {
-  number += n
+  number += 5
   return `${number}`
 }
